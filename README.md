@@ -2,12 +2,12 @@
 
 - 참여자
 
-|Github 아이디|이름|사진|
+|Github|이름|사진|블로그|
 |:-:|:-:|:-:|
-|oasis791|김현욱|test|
-|narcoker|김준서|test|
-|yms1789|여민수|test|
-|lee2963|이승민|test|
+|[oasis791](https://github.com/oasis791)|김현욱|test|https://kimhyunwook.com|
+|[narcoker](https://github.com/narcoker)|김준서|test|https://velog.io/@narcoker|
+|[yms1789](https://github.com/yms1789)|여민수|test|https://velog.io/@yms1789|
+|[lee2963](https://github.com/lee2963)|이승민|test|https://velog.io/@lee2963|
 
 * 매주 문제풀이 플랫폼에서 **3문제**씩 골라 `📅 일정표` 에 추가한다.
 
@@ -18,7 +18,7 @@
 
 |주차|1|2|3|
 |:-:|:-:|:-:|:-:|
-|1주차(22.08.17~22.08.23)|[기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)| [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)| |
+|1주차(22.08.17~22.08.23)|[기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)| [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)|[K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)|
 
 
 ---
