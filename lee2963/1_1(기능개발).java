@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+1import java.util.ArrayList;
 
 public class Solution {
     public static int[] solution(int[] progresses, int[] speeds) {
@@ -42,11 +42,5 @@ public class Solution {
 
         return answer;
 
-    }
-    public static void main(String[] args) {
-
-        int[] arr = {93,30,55};
-        int[] commands = {1,30,5};
-        solution(arr, commands);
     }
 }
