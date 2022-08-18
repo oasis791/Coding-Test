@@ -1,3 +1,4 @@
+// [프로그래머스] 기능 개발
 function solution(progresses, speeds) {
     let result = [];
     while (progresses.length) {
