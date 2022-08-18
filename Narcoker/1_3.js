@@ -1,3 +1,4 @@
+// [프로그래머스] K번째 수
 function solution(array, commands) {
     return commands.reduce(function (result, value) {
         let temp_arr = array.slice(value[0] - 1, value[1]);
