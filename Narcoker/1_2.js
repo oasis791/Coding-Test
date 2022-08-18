@@ -5,7 +5,6 @@ function solution(maps) {
     let move = [[-1, 0], [0, 1], [1, 0], [0, -1]];
     while (queue.length) {
         position = queue.shift();
-        // maps[position[0]][position[1]] = 0; // 시간초과, 큐에 넣는다는 것은 방문할 예정이라는 뜻이므로 중복 값이 들어가지 않도록 큐에 넣을때 방문 체크.
         if (position[0] === maps.length - 1 && position[1] === maps[0].length - 1) return position[2];
 
         for (let value of move) {
