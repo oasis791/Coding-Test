@@ -27,3 +27,21 @@ participant.forEach((person) => {
   }
 });
 */
+/* 또 다른 풀이(with, 객체 카운터) */
+// function solution(participant, completion) {
+//   let answer = "";
+//   let freqCounter1 = {};
+//   let freqCounter2 = {};
+//   participant.forEach((val) => {
+//     freqCounter1[val] = (freqCounter1[val] || 0) + 1;
+//   });
+//   completion.forEach((val) => {
+//     freqCounter2[val] = (freqCounter2[val] || 0) + 1;
+//   });
+//   Object.keys(freqCounter1).forEach((key) => {
+//     if (!(key in freqCounter2) || freqCounter2[key] !== freqCounter1[key]) {
+//       answer = key;
+//     }
+//   });
+//   return answer;
+// }
