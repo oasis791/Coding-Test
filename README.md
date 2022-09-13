@@ -22,6 +22,7 @@
 |1주차(22.08.17~22.08.21)|[기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)|[게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)|[K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)|
 |2주차(22.08.22~22.08.28)|[가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)|[완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)|[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|
 |3주차(22.08.29~22.09.04)|[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|[거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)|[폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)|
+|4주차(22.09.13~22.09.18)|[이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)|[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)|[플로이드](https://www.acmicpc.net/problem/11404)|
 
 
 ---
