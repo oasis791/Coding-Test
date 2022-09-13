@@ -5,9 +5,10 @@
 |Github|이름|사진|블로그|
 |:-:|:-:|:-:|:-:|
 |[oasis791](https://github.com/oasis791)|김현욱|<img src="https://i.ibb.co/rdXCP5K/oasis791.png">|https://kimhyunwook.com|
-|[narcoker](https://github.com/narcoker)|김준서|<img src="https://i.ibb.co/RYSBWPr/narcoker.png">|https://velog.io/@narcoker|
+|[narcoker](https://github.com/narcoker)|김준서|<img src="https://i.ibb.co/RYSBWPr/narcoker.png">|https://narcoker.github.io/Narcoker_blog|
 |[yms1789](https://github.com/yms1789)|여민수|<img src="https://i.ibb.co/52gmkmr/yms1789.png">|https://velog.io/@yms1789|
 |[lee2963](https://github.com/lee2963)|이승민|<img src="https://i.ibb.co/qMFWhSQ/lee2963.png">|https://velog.io/@lee2963|
+|[Daek-You](https://github.com/Daek-You)|최대규|<img src="https://ibb.co/RHL3D2v">|https://daekyoulibrary.tistory.com|
 
 * 매주 문제풀이 플랫폼에서 **3문제**씩 골라 `📅 일정표` 에 추가한다.
 
