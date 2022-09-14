@@ -1,26 +1,25 @@
-
 class Solution {
-    public static int[] solution(int brown, int yellow) {
-        int[] answer = {};
-        int col;
-        int row;
+    public String solution(String s) {
+        String answer = "";
+        StringBuilder sb = new StringBuilder(s);
+        int cnt = 0;
 
-        for (int i = 1; 1 <= yellow / 2; i++) {
-
-            if (yellow % i == 0) {
-                if ((((yellow / i) + 1) + (i + 1)) * 2 == brown) {
-                    answer[0] = yellow / i;
-                    answer[1] = i;
+        for (int i = 0; i < sb.length(); i++) {
+            cnt++;
+            if (sb.charAt(i) == ' ') {
+                cnt = 0;
+                continue;
+            } else{
+                if (cnt % 2 != 0) {
+                    sb.replace(i, i + 1, s.substring(i,i+1).toUpperCase());
+                } else{
+                    sb.replace(i, i + 1, s.substring(i,i+1).toLowerCase());
                 }
             }
-        }
-        System.out.println(answer[0] + " " + answer[1]);
-        return answer;
-    }
 
-    public static void main(String[] args) {
-        int brown = 10;
-        int yellow = 2;
-        solution(brown, yellow);
+        }
+
+        answer = sb.toString();
+        return answer;
     }
 }
