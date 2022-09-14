@@ -1,7 +1,7 @@
 // [백준] 플로이드
 
 const fs = require('fs');
-const input = fs.readFileSync("data.txt").toString().trim().split("\n").map(str => str.split(' ').map(Number));
+const input = fs.readFileSync("/dev/stdin").toString().trim().split("\n").map(str => str.split(' ').map(Number));
 const [country, bus] = [input[0][0], input[1][0]]
 const input_map = input.slice(2);
 let map = Array.from(Array(country), () => new Array(country).fill(Infinity));
