@@ -14,4 +14,5 @@ function solution(s) {
   }
 
   return answer.join("");
+  
 }
