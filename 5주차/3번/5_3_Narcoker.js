@@ -45,4 +45,3 @@ function solution(n, info) {
     search(n, lionInfo, 0)
     return answer.length === 0 ? [-1] : answer
 }
-console.log(solution(1, [1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1]));
