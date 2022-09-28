@@ -24,6 +24,7 @@
 |3주차(22.08.29~22.09.04)|[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|[거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)|[폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)|
 |4주차(22.09.13~22.09.18)|[이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)|[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)|[플로이드](https://www.acmicpc.net/problem/11404)|
 |5주차(22.09.19~22.09.25)|[신입 사원](https://www.acmicpc.net/problem/1946)|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|[양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)|
+|6주차(22.09.26~22.10.02)|[124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899)|[N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)|[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|
 
 ---
 ## 🌐 활용 플랫폼
