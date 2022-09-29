@@ -13,10 +13,6 @@ function solution(n) {
         if (nextShare === 0) return;
         else get124(nextShare);
     }
-
     get124(n);
     return answer.reverse().join('');
-}
-for (let i = 1; i <= 15; i++){
-    console.log(solution(i));
 }
