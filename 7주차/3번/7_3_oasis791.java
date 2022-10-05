@@ -23,22 +23,11 @@ class Solution {
         };
 
         Collections.sort(list, comparator);
-
-        List<String> answer = new ArrayList<>();
-        String prev = list.get(0).get(0);
-        answer.add(prev);
-        for (int i = 1; i < list.size(); i++) {
-            for (int k = i; k < list.size(); k++) {
-                for (int j = 0; j < list.get(k).size(); j++) {
-                    if (prev.equals(list.get(k).get(j))) {
-                        list.get(k).remove(j);
-                        break;
-                    }
-                }
-            }
-            answer.add(list.get(i).get(0));
-            prev = list.get(i).get(0);
+        Set<String> set = new LinkedHashSet<>();
+        for (ArrayList<String> elements : list) {
+            set.addAll(elements);
         }
-        return answer.stream().mapToInt(Integer::parseInt).toArray();
+
+        return set.stream().mapToInt(Integer::parseInt).toArray();
     }
 }
