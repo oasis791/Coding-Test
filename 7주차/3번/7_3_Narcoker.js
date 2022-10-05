@@ -1,9 +1,7 @@
 function solution(s) {
     let result_set = new Set();
-    for (let i = 0; i < 2; i++)
-        s = s.slice(1, s.length - 1);
 
-    s = s.split("},{").reduce((arr, value) => {
+    s = s.slice(2, s.length - 2).split("},{").reduce((arr, value) => {
         arr.push(value.split(','))
         return arr;
     }, []);
