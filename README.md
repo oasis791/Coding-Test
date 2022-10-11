@@ -26,7 +26,7 @@
 |5주차(22.09.19~22.09.25)|[신입 사원](https://www.acmicpc.net/problem/1946)|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|[양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)|
 |6주차(22.09.26~22.10.02)|[124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899)|[N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)|[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|
 |7주차(22.10.03~22.10.09)|[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)|[압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)|[튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|
-|8주차(22.10.10~22.10.16)|[다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)|[프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|[튜플](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|
+|8주차(22.10.10~22.10.16)|[다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)|[프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|[캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|
 
 ---
 ## 🌐 활용 플랫폼
