@@ -36,24 +36,24 @@ class Solution {
          * }
          * if (priorities[location] == priorities[i]) same++;
          * }
-         * 
+         *
          * if (index == -1) {
          * if (same == 1) return 1;
          * index = 0;
          * }
-         * 
+         *
          * int order = 0;
          * while (true) {
          * if (index == priorities.length) index = 0;
-         * 
+         *
          * if (index == location) {
          * order++;
          * break;
          * }
-         * 
+         *
          * if (priorities[index++] == priorities[location]) order++;
          * }
-         * 
+         *
          * return big + order;
          */
     }
