@@ -27,6 +27,7 @@
 |6주차(22.09.26~22.10.02)|[124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899)|[N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)|[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|
 |7주차(22.10.03~22.10.09)|[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)|[압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)|[튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|
 |8주차(22.10.10~22.10.16)|[다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)|[프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|[캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|
+|9주차(22.10.17~22.10.23)|[점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)|[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)|[주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)|
 
 ---
 ## 🌐 활용 플랫폼
