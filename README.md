@@ -29,6 +29,7 @@
 |8주차(22.10.10~22.10.16)|[다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)|[프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|[캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|
 |9주차(22.10.17~22.10.23)|[점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)|[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)|[주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)|
 |10주차(22.10.24~22.10.30)|[두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)|[배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)|[다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)|
+|11주차(22.10.31~22.11.06)|[삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)|[줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936)|[멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)|
  
 ---
 ## 🌐 활용 플랫폼
