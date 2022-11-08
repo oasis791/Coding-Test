@@ -3,12 +3,10 @@ function solution(n) {
     const fac = Array(n + 1).fill(BigInt(1));
     for (let i = 2; i < fac.length; i++)
         fac[i] = fac[i - 1] * BigInt(i);
-    fac[0] = BigInt(1);
 
-    // console.log(fac);
     let twoMaxCount = Math.floor(n / 2);
     for (let r = 0; r <= twoMaxCount; r++) {
-        answer += (fac[n] / (fac[n-r] * fac[r]));
+        answer += (fac[n] / (fac[n - r] * fac[r]));
         n--;
     }
     return Number(answer % BigInt(1234567));
