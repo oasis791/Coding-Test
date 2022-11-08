@@ -1,13 +1,28 @@
-function solution(number) {
-    let answer = 0;
-    function search(sum, index, count) {
-        if (count === 3) {
-            if (!sum) answer++;
-            else return;
+function solution(n, k) {
+    let answer = [];
+    let numbers = Array.from({ length: n }, (v, i) => i + 1);
+    let facResult = 1;
+    for (let i = 1; i <= n; i++)
+        facResult *= i;
+    while (n) {
+        let groupCount = Math.floor(facResult / n);
+        let share = Math.floor(k / groupCount);
+        let remainder = k % groupCount;
+
+        if (remainder === 0) share--;
+        answer.push(numbers[share]);
+        numbers.splice(share, 1);
+        if (remainder === 0) {
+            answer = [...answer, ...numbers.reverse()];
+            break;
+        } else if (remainder === 1) {
+            answer = [...answer, ...numbers];
+            break;
         }
-        for (let i = index; i < number.length; i++)
-            search(sum + number[i], i + 1, count + 1);
+
+        facResult /= n;
+        n--;
+        k = remainder;
     }
-    search(0, 0, 0);
     return answer;
 }
