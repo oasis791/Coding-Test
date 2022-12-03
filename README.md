@@ -32,7 +32,7 @@
 |11주차(22.10.31~22.11.06)|[삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)|[줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936)|[멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)|
 |12주차(22.11.07~22.11.13)|[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|[예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)|[콜라문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)|
 |13주차(22.11.21~22.11.27)|[H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)|[메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|[할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)|
-|14주차(22.11.28~22.12.05)|[스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)|[교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)|[괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)|
+|14주차(22.11.28~22.12.04)|[스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)|[교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)|[괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)|
  
 ---
 ## 🌐 활용 플랫폼
