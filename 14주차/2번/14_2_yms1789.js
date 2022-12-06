@@ -29,5 +29,27 @@ function solution(line) {
     board[maxY - y][x - minX] = "*";
   });
 
+  //  const isMeets = (arr) => {
+  //    for (let meet of meets) {
+  //      if (JSON.stringify(arr) === JSON.stringify(meet)) {
+  //        return true;
+  //      }
+  //    }
+  //    return false;
+  //  };
+
+  //  for (let i = maxY; i >= minY; i--) {
+  //    let str = "";
+  //    for (let j = maxX; j >= minX; j--) {
+  //      if (isMeets([j, i])) {
+  //        str += "*";
+  //      } else {
+  //        str += ".";
+  //      }
+  //    }
+  //    answer.push(str);
+  //  }
+  //  return answer;
+
   return board.map((x) => x.join(""));
 }
