@@ -61,12 +61,4 @@ class Solution {
         }
         return true;
     }
-
-    public static void main(String[] args) {
-        int[] a = {10, 10};
-        int[] b = {11, 11};
-
-        solution(a, b);
-
-    }
 }
