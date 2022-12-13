@@ -1,8 +1,8 @@
 function solution(cards) {
     let groups = [];
     let use = new Set();
-    let remain = cards.length;
-    while (remain > 0) {
+
+    while (use.size !== cards.length) {
         let group = [];
         let curIndex = 0;
         for (let i = 0; i < cards.length; i++) {
@@ -12,7 +12,6 @@ function solution(cards) {
         while (true) {
             if (group.includes(cards[curIndex])) break;
             group.push(cards[curIndex]);
-            remain--;
             use.add(curIndex);
             curIndex = group.at(-1) - 1;
         }
