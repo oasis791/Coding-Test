@@ -28,5 +28,5 @@ function solution(n) {
         [curY, curX] = assign(curY, curX, num, move[i]);
         num++;
     }
-    return arr.reduce((res, value) => res.concat(value));
+    return arr.flat();
 }
