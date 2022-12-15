@@ -6,7 +6,6 @@ class Solution {
 
         dac(arr, 0, size - 1, 0, size - 1, size);
 
-        System.out.println(answer[0] + " " + answer[1]);
         return answer;
     }
 
@@ -29,12 +28,4 @@ class Solution {
         }
         answer[chk] += 1;
     }
-
-    public static void main(String[] args) {
-        int[][] arr = {{1, 1, 0, 0}, {1, 0, 0, 0}, {1, 0, 0, 1}, {1, 1, 1, 1}};
-        solution(arr);
-
-    }
-
-
 }
