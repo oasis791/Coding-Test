@@ -35,6 +35,7 @@
 |14주차(22.11.28~22.12.04)|[스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)|[교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)|[괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)|
 |15주차(22.12.05~22.12.11)|[귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|[점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)|[숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)|
 |16주차(22.12.12~22.12.18)|[혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)|[삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)|[쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)|
+|17주차(22.12.19~22.12.25)|[방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)|[후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)|[전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)|
  
 ---
 ## 🌐 활용 플랫폼
