@@ -31,9 +31,9 @@ function solution(relation) {
     }
 
     let candidateKeys = [];
-    let temp = Array.from(Array(relation[0].length), (x, i) => x = i);
+    let columnIndex = Array.from(Array(relation[0].length), (x, i) => x = i);
     for (let count = 1; count <= relation[0].length; count++) {
-        let keys = getCombinations(temp, count);
+        let keys = getCombinations(columnIndex, count);
         for (let key of keys)
             check(key);
     }
