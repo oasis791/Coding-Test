@@ -43,7 +43,7 @@ function solution(m, musicinfos) {
         return (endHour * 60 + endMinite) - (startHour * 60 + startMinite);
     }
 
-    let answer = ["(None)", "", 0];
+    let answer = ["(None)", 0];
     m = m.replace(/\w#/g, char => char[0].toLowerCase());
 
     musicinfos.forEach((info) => {
@@ -54,13 +54,10 @@ function solution(m, musicinfos) {
         let playSounds = sounds.repeat(Math.ceil(playTime / sounds.length)).slice(0, playTime);
 
         if (playSounds.includes(m)) {
-            if (answer[1].length < m.length)
-                answer = [name, m, playTime];
-
-            if (answer[1].length === m.length)
-                answer = playTime > answer[2] ? [name, m, playTime] : answer;
+            if (answer[0] === "(None)") answer = [name, playTime];
+            else answer = playTime > answer[1] ? [name, playTime] : answer;
         }
     });
 
-    return answer[0] ? "" : "(None)", answer[0];
+    return answer[0];
 }
